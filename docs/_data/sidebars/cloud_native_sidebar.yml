@@ -5,7 +5,7 @@ entries:
 - title: Sidebar
   product: BEING CLOUD NATIVE
   version:
-  folders:
+  folders: cloud_native
 
   - title:
     output: pdf
@@ -27,5 +27,3 @@ entries:
     - title: Introduction
       url: /cloud-native-landing-page.html
       output:  web
-
-      
