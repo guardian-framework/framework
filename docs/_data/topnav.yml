@@ -14,7 +14,7 @@ topnav_dropdowns:
         - title: BEING CLOUD NATIVE
           url: /cloud-native-landing-page.html
         - title: DEALING WITH LEGACY
-          url: /legacy-landing-page.html
+          url: /legacy_landing_page.html
 
     - title: Resources
       folderitems:
