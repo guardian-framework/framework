@@ -19,7 +19,7 @@ topnav_dropdowns:
     - title: Resources
       folderitems:
         - title: Github
-          external_url: https://guardian-framework.github.io/framework
+          external_url: https://github.com/guardian-framework
         - title: Blog
           external_url: https://guardian-framework.github.io/framework/news
 
