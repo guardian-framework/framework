@@ -93,9 +93,7 @@ defaults:
 sidebars:
 - home_sidebar
 - framework_sidebar
-- methodology_sidebar
-- cloud_native_sidebar
-- legacy_sidebar
+
 
 description: "GUARDIAN - An Opinionated Inductive Guidance Framework for Digital Transformation"
 # the description is used in the feed.xml file
