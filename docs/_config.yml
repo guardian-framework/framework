@@ -28,7 +28,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: GUARDIAN - 
+feedback_subject_line: GUARDIAN -
 
 feedback_email: Lars.Barkman@afaforsakring.se
 # used as a contact email for the Feedback link in the top navigation bar
