@@ -24,5 +24,9 @@ entries:
     output: web, pdf
     folderitems:
     - title: Introduction
-      url: /legacy-landing-page.html
+      url: /legacy_landing_page.html
+      output: web
+
+    - title: Sample1
+      url: /legacy_sample1.html
       output: web
