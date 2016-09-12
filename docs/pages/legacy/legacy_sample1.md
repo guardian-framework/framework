@@ -2,7 +2,7 @@
 title: Sample 1 Topic (methodology)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: methodology_sidebar
+sidebar: legacy_sidebar
 permalink: legacy_sample1.html
 folder: methodology
 ---
