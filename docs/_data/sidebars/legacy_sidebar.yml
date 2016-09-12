@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: DEALING WITH LEGACY
+  product: THE METHODOLOGY
   version:
   folders:
 
@@ -24,9 +24,12 @@ entries:
     output: web, pdf
     folderitems:
     - title: Introduction
-      url: /legacy_landing_page.html
+      url: /methodology_landing_page.html
       output: web
 
-    - title: Sample1
-      url: /legacy_sample1.html
-      output: web
+  - title: Creating Business Services
+    output: web, pdf
+    folderitems:
+    - title: Sample 1
+      url: /methodology_sample1.html
+      output: web, pdf
