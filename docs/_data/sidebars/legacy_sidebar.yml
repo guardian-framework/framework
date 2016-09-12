@@ -5,7 +5,7 @@ entries:
 - title: Sidebar
   product: DEALING WITH LEGACY
   version:
-  folders: legacy
+  folders:
 
   - title:
     output: pdf

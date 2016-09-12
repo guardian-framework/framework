@@ -5,7 +5,7 @@ entries:
 - title: Sidebar
   product: BEING CLOUD NATIVE
   version:
-  folders: cloud_native
+  folders:
 
   - title:
     output: pdf
