@@ -11,10 +11,6 @@ topnav_dropdowns:
           url: /index.html
         - title: THE METHODOLOGY
           url: /methodology_landing_page.html
-        - title: BEING CLOUD NATIVE
-          url: /cloud-native-landing-page.html
-        - title: DEALING WITH LEGACY
-          url: /legacy_landing_page.html
 
     - title: Resources
       folderitems:
