@@ -1,5 +1,5 @@
 ---
-title: Standardizations
+title: STANDARDIZATIONS
 keywords:
 sidebar: framework_sidebar
 permalink: standardizations.html

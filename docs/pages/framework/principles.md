@@ -1,5 +1,5 @@
 ---
-title: Principles
+title: PRINCIPLES
 keywords:
 sidebar: framework_sidebar
 permalink: principles.html

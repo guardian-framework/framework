@@ -1,5 +1,5 @@
 ---
-title: The Time Perspective
+title: THE TIME PERSPECTIVE
 keywords: Time Perspective
 sidebar: framework_sidebar
 permalink: the-time-perspective.html

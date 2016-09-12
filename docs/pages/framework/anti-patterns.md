@@ -1,5 +1,5 @@
 ---
-title: Known Anti-patterns
+title: KNOWN ANTI-PATTERNS
 keywords:
 sidebar: framework_sidebar
 permalink: anti-patterns.html

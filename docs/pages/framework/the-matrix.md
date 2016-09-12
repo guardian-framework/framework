@@ -90,7 +90,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 </table>
 
 ## *Recommended Target Architecture
-For lager/more complex organisations it's likly that one architecture will not be enough and there should be 2-3 different architectures that can be used in different cases.
+For more complex organisations it's likly that one target architecture will not be enough and there should be different architectures that can be used in different cases.
 
 In those cases just name the different target achitectures and assign them to each business service.
 

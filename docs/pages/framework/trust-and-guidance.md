@@ -123,6 +123,11 @@ Source: [Innovation management](http://www.innovationmanagement.se/imtool-articl
 
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 
+# Justification Of The Choices Made
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+# The Other Alternatives That Were Not Chosen
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 # Further Reading
 * [The Innovative Leader vs. the Command-and-Control Leader](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)

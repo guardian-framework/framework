@@ -1,5 +1,5 @@
 ---
-title: Being Cloud Native
+title: BEING CLOUD NATIVE
 keywords: Cloud Native
 sidebar: framework_sidebar
 permalink: being-cloud-native.html

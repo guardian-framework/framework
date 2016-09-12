@@ -1,5 +1,5 @@
 ---
-title: Enabling Digital
+title: ENABLING DIGITAL
 keywords: Enabling Digital
 sidebar: framework_sidebar
 permalink: enabling-digital.html

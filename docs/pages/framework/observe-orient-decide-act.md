@@ -1,5 +1,5 @@
 ---
-title: Observe, Orient, Decide and Act
+title: OBSERVE, ORIENT, DECIDE AND ACT
 keywords: OODA-loop
 sidebar: framework_sidebar
 permalink: observe-orient-decide-act.html
@@ -8,20 +8,17 @@ summary: By deploying a change and measuring its effects, the team gain confiden
 ---
 
 
-## Context
-
+# Defining Observe, Orient, Decide and Act
 > The phrase OODA loop refers to the decision cycle of observe, orient, decide, and act, developed by military strategist and United States Air Force Colonel John Boyd. Boyd applied the concept to the combat operations process, often at the strategic level in military operations. It is now also often applied to understand commercial operations and learning processes. The approach favors agility over raw power in dealing with human opponents in any endeavor.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/OODA_loop)
 
+# Justification Of The Choices Made
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-## Motivation behind the choice
+# The Other Alternatives That Were Not Chosen
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-
-## Alternatives that could have been chosen, but was not
-
-
-## Further Reading
-
+# Further Reading
 * [Wikipedia](https://en.wikipedia.org/wiki/OODA_loop)
 * [Kevin Sookocheff](https://sookocheff.com/post/mdd/mdd/)

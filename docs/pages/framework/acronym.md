@@ -1,5 +1,5 @@
 ---
-title: The Acronym
+title: THE ACRONYM
 keywords: Acronym
 sidebar: framework_sidebar
 permalink: acronym.html

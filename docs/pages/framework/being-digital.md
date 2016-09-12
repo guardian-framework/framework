@@ -1,5 +1,5 @@
 ---
-title: Being Digital
+title: BEING DIGITAL
 keywords: Being Digital
 sidebar: framework_sidebar
 permalink: being-digital.html
