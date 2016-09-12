@@ -23,6 +23,9 @@ entries:
   - title: Overview
     output: web, pdf
     folderitems:
+
     - title: Introduction
       url: /cloud-native-landing-page.html
-      output: web
+      output:  web
+
+      
