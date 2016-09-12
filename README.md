@@ -1,7 +1,7 @@
 # GUARDIAN (of the digital transformation)
 **An Opinionated Inductive Guidance Framework for Digital Transformation**
 
-*Go directly to [The Framework](http://larsbarkman.com/guardian/index.html)*
+*Go directly to [The Framework](https://guardian-framework.github.io/framework/)*
 
 ## Opinionated
 > Someone who isn't afraid to give their personal opinion. It doesn't have to be a bad thing. It's just someone that doesn't stay quiet, if they don't agree with something.
@@ -31,4 +31,4 @@ Source: [Merriam-Webster](http://www.merriam-webster.com/)
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Digital_transformation)
 
-*Go to [The Framework](http://larsbarkman.com/guardian/index.html)*
+*Go to [The Framework](https://guardian-framework.github.io/framework/)*
