@@ -1,0 +1,35 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: THE METHODOLOGY
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /methodology_landing_page.html
+      output: web
+
+  - title: Creating Business Services
+    output: web, pdf
+    folderitems:
+    - title: Sample 1
+      url: /methodology_sample1.html
+      output: web, pdf

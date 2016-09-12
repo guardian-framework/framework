@@ -1,0 +1,225 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: THE FRAMEWORK
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Welcome
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: The Matrix
+      url: /the-matrix.html
+      output: web, pdf
+
+    - title: Enabling Digital
+      url: /enabling-digital.html
+      output: web, pdf
+
+    - title: Being Digital
+      url: /being-digital.html
+      output: web, pdf
+
+    - title: The Time Perspective
+      url: /the-time-perspective.html
+      output: web, pdf
+
+    - title: Transformation
+      url: /transformation.html
+      output: web, pdf
+
+    - title: Known Anti-patterns
+      url: /anti-patterns.html
+      output: web, pdf
+
+  - title: Culture And Values
+    output: web, pdf
+    folderitems:
+
+    - title: Collaboration
+      url: /collaboration.html
+      output: web, pdf
+
+    - title: From Command & Control To Trust And Guidance
+      url: /trust-and-guidance.html
+      output: web, pdf
+
+    - title: Autonomy, Mastery and Purpose
+      url: /autonomy-mastery-and-purpose.html
+      output: web, pdf
+
+    - title: Empathy
+      url: /empathy.html
+      output: web, pdf
+
+  - title: Context And Purpose
+    output: web, pdf
+    folderitems:
+
+    - title: Customer Value Chain
+      url: /customer-value-chain.html
+      output: web, pdf
+
+    - title: Business Capabilities
+      url: /business-capabilities.html
+      output: web, pdf
+
+    - title: Business Services
+      url: /business-services.html
+      output: web, pdf
+
+    - title: Domain Model
+      url: /domain-model.html
+      output: web, pdf
+
+  - title: Structure And Staffing
+    output: web, pdf
+    folderitems:
+
+    - title: Diversity
+      url: /diversity.html
+      output: web, pdf
+
+    - title: Products Not Projects
+      url: /products-not-projects.html
+      output: web, pdf
+
+    - title: BizDevOps
+      url: /bizdevops.html
+      output: web, pdf
+
+    - title: Self-organization
+      url: /self-organization.html
+      output: web, pdf
+
+  - title: Architecture And Design
+    output: web, pdf
+
+    folderitems:
+    - title: Evolutionary Architecture
+      url: /evolutionary-architecture.html
+      output: web, pdf
+
+    - title: Microservices Architecture
+      url: /microservices-architecture.html
+      output: web, pdf
+
+    - title: Being Cloud Native
+      url: /being-cloud-native.html
+      output: web, pdf
+
+    - title: Dealing With Legacy
+      url: /dealing-with-legacy.html
+      output: web, pdf
+
+    - title: Standardizations
+      url: /standardizations.html
+      output: web, pdf
+
+    - title: Patterns
+      url: /patterns.html
+      output: web, pdf
+
+    - title: Principles
+      url: /principles.html
+      output: web, pdf
+
+  - title: Build
+    output: web, pdf
+
+    folderitems:
+    - title: Open Source First
+      url: /open-source-first.html
+      output: web, pdf
+
+    - title: Don't Build What Can Be Used or Bought
+      url: /dont-build-what-can-be-used-or-bought.html
+      output: web, pdf
+
+    - title: Respect the Bounded Context
+      url: /respect-the-bounded-context.html
+      output: web, pdf
+
+    - title: Technological Mastery
+      url: /technological-mastery.html
+      output: web, pdf
+
+  - title: Ship
+    output: web, pdf
+
+    folderitems:
+    - title: Time to Customer Value
+      url: /time-to-customer-value.html
+      output: web, pdf
+
+    - title: Created and Proven by Doing
+      url: /created-and-proven-by-doing.html
+      output: web, pdf
+
+    - title: "Optimize for Speed not Efficiency"
+      url: /optimize-for-speed-not-efficiency.html
+      output: web, pdf
+
+    - title: Continuous Deployment
+      url: /continuous-deployment.html
+      output: web, pdf
+
+  - title: Run
+    output: web, pdf
+
+    folderitems:
+    - title: Cloud-only
+      url: /cloud-only.html
+      output: web, pdf
+
+    - title: One Container Platform
+      url: /one-container-platform.html
+      output: web, pdf
+
+    - title: Self-service Services
+      url: /self-service-services.html
+      output: web, pdf
+
+    - title: "You Build It, You Run It"
+      url: /you-build-it-you-run-it.html
+      output: web, pdf
+
+  - title: Change
+    output: web, pdf
+
+    folderitems:
+    - title: Customer Value
+      url: /customer-value.html
+      output: web, pdf
+
+    - title: Work Smarter, Not Harder
+      url: /work-smarter-not-harder.html
+      output: web, pdf
+
+    - title: Observe, Orient, Decide and Act
+      url: /observe-orient-decide-act.html
+      output: web, pdf
+
+    - title: Metrics-Driven Development
+      url: /metrics-driven-development.html
+      output: web, pdf

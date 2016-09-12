@@ -1,0 +1,30 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Content
+      folderitems:
+        - title: THE FRAMEWORK
+          url: /index.html
+        - title: THE METHODOLOGY
+          url: /methodology_landing_page.html
+        - title: BEING CLOUD NATIVE
+          url: /cloud-native-landing-page.html
+        - title: DEALING WITH LEGACY
+          url: /legacy-landing-page.html
+
+    - title: Resources
+      folderitems:
+        - title: Github
+          external_url: https://github.com/LarsBarkman
+        - title: Blog
+          external_url: http://larsbarkman.com
+
+topnav:
+- title: Topnav
+  items:
+    - title: News
+      url: /news

@@ -1,0 +1,29 @@
+@startuml
+
+skinparam nodesep 5
+skinparam ranksep 5
+
+node "LEGACY" {
+  [Facade]
+}
+
+node "Greenfield (BUILD)" {
+  package "Software as a Service (SaaS)" {
+    [Layer 8: Service]
+  }
+}
+
+node "Greenfield (USE or BUY)" {
+  [SaaS]
+}
+
+[Facade] .up. [Layer 8: Service] : Interact
+[Facade] .up. [SaaS] : Interact
+[Layer 8: Service] .up. [SaaS] : Interact
+
+
+
+
+
+
+@enduml
