@@ -60,7 +60,7 @@ entries:
       url: /collaboration.html
       output: web, pdf
 
-    - title: From Command & Control To Trust And Guidance
+    - title: Trust And Guidance
       url: /trust-and-guidance.html
       output: web, pdf
 
