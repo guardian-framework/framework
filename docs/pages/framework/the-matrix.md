@@ -56,13 +56,13 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
   </tr>
   <tr>
     <td class="tg-v6kb">STRATEGIC</td>
-    <td class="tg-v1zw"><a href="trust-and-guidance.html" title="Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception">From Command & Control To Trust And Guidance</a></td>
+    <td class="tg-v1zw"><a href="trust-and-guidance.html" title="Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception">Trust And Guidance</a></td>
     <td class="tg-q8lq"><a href="business-capabilities.html" title="Capabilities-Driven Strategy enable companies to become more coherent and to gain a right to win in the markets in which they have decided to compete. Applying a capabilities lens changes how executives make important strategic decisions">Business Capabilities</a></td>
     <td class="tg-cw1h"><a href="products-not-projects.html" title=" ">Products<br>Not Projects</a></td>
     <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
     <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used Or Bought</a></td>
     <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created And Proven By Doing</a></td>
-    <td class="tg-cw1h"><a href="one-container-platform.html" title=" ">ONE<br>Container Platform</a></td>
+    <td class="tg-cw1h"><a href="one-platform.html" title=" ">ONE<br>Platform</a></td>
     <td class="tg-q8lq"><a href="work-smarter-not-harder.html" title=" ">Work Smarter, Not Harder</a></td>
   </tr>
   <tr>
