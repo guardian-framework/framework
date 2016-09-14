@@ -1,12 +1,12 @@
 ---
-title: The Matrix
+title: THE MATRIX
 keywords:
 sidebar: framework_sidebar
 permalink: the-matrix.html
 toc: false
 summary:
 ---
-# The Overall Framework
+## The Overall Framework
 Read about the four [Levels](the-time-perspective.html) in The Framework.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
