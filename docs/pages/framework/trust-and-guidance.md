@@ -1,6 +1,6 @@
 ---
-title: FROM COMMAND & CONTROL TO TRUST AND GUIDANCE
-keywords: Command Control Trust Guidance
+title: TRUST AND GUIDANCE
+keywords: Trust Guidance
 sidebar: framework_sidebar
 permalink: trust-and-guidance.html
 toc: false
