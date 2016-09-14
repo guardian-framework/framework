@@ -25,8 +25,7 @@ summary:
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Legacy_system)
 
 # Which Systems Are Legacy Systems?
-* Which systems that are is legacy or not is subjective and it's impossible to give an exakt difinition
-* One general guidence is "The effort and/or cost to transform the system to [Cloud Native](being-cloud-native.html) is to great to be worth it or transformation is just not possible"
+![Cloud Native or Legacy](images/cloud-native-or-legacy.svg)
 
 # The Law of Holes
 > The first law of holes, or the law of holes, is an adage which states that "if you find yourself in a hole, stop digging". The meaning behind it is that if you find yourself in an untenable position, you should stop and change what you are doing, rather than carrying on and exacerbating the situation.
