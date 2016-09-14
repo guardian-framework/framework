@@ -7,7 +7,7 @@ toc: true
 summary:
 ---
 
-# Defining Cloud-only
+## Defining Cloud-only
 > By 2019, more than 30 percent of the 100 largest vendors' new software investments will have shifted from cloud-first to cloud-only.
 
 > The now well-established stance of cloud-first in software design and planning is gradually being augmented or replaced by cloud-only. This also applies to private and hybrid cloud scenarios.
@@ -16,11 +16,11 @@ summary:
 
 Source: [Gartner Says By 2020, a Corporate "No-Cloud" Policy Will Be as Rare as a "No-Internet" Policy Is Today](http://www.gartner.com/newsroom/id/3354117)
 
-# Justification Of The Choices Made
+## Justification Of The Choices Made
 * Cloud is the way of the future therefore "On-premise only" is not an option for anybody anymore. The reason to have "Cloud-only" instead of "Cloud-first" is that it does not leave any room to kling to the old way of doing computing. Naturally there will always be situations where on-premise is still the best choice (if you are in the business of running data centers) but for most companies it just prolongs the pain.
 
-# The Other Alternatives That Were Not Chosen
+## The Other Alternatives That Were Not Chosen
 * "Cloud-first" strategy
 
-# Further Reading
+## Further Reading
 * [Gartner Says By 2020, a Corporate "No-Cloud" Policy Will Be as Rare as a "No-Internet" Policy Is Today](http://www.gartner.com/newsroom/id/3354117)

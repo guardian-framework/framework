@@ -7,14 +7,14 @@ toc: true
 summary:
 ---
 
-# Defining Self-service Services
+## Defining Self-service Services
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-# Justification Of The Choices Made
+## Justification Of The Choices Made
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-# The Other Alternatives That Were Not Chosen
+## The Other Alternatives That Were Not Chosen
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-# Further Reading
+## Further Reading
 * [Lorem ipsum dolor sit amet, consectetur adipisicing elit.]()

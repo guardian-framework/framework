@@ -7,17 +7,17 @@ toc: false
 summary: Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception.
 ---
 
-# Defining Trust And Guidance
+## Defining Trust And Guidance
 > Let’s contrast two extremes of leadership style that I have designated as the command and control leader and the innovative leader.  The command and control leader is goal-oriented, authoritative and decisive. He or she is well suited to a structured regime with clear tasks. The innovative leader, on the other hand, is better suited to an ambiguous or fluid situation. He or she is much more focused on creativity, innovation and helping the team to find new ways forward.
 
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 
-# Radical Candor — The Surprising Secret to Being a Good Boss
+## Radical Candor — The Surprising Secret to Being a Good Boss
 > The single most important thing a boss can do, Scott has learned, is focus on guidance: giving it, receiving it, and encouraging it. Guidance, which is fundamentally just praise and criticism, is usually called “feedback,” but feedback is screechy and makes us want to put our hands over our ears. Guidance is something most of us long for.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MIh_992Nfes" frameborder="0" allowfullscreen></iframe>
 
-# The Innovative Leader
+## The Innovative Leader
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
@@ -100,12 +100,12 @@ Source: [Innovation management](http://www.innovationmanagement.se/imtool-articl
 
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 
-# Justification Of The Choices Made
+## Justification Of The Choices Made
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-# The Other Alternatives That Were Not Chosen
+## The Other Alternatives That Were Not Chosen
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-# Further Reading
+## Further Reading
 * [The Innovative Leader vs. the Command-and-Control Leader](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)

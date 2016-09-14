@@ -6,10 +6,10 @@ permalink: being-digital.html
 summary: The rapid pase and fierce competition in the digital market place require a whole different level of customer focus, innovation and time to customer value.
 ---
 
-# Build
+## Build
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-# Ship
+## Ship
 Ship (Software deployment) is all of the activities that make a software system available for use.
 
 In continuous delivery, we introduce two new architectural attributes: testability and deployability.
@@ -20,8 +20,8 @@ In a deployable architecture, deployments of a particular product or service can
 
 Source: [Continuousdelivery.com](https://continuousdelivery.com/implementing/architecture/)
 
-# Run
+## Run
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
-# Change
+## Change
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
