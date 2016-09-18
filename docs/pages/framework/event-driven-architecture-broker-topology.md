@@ -29,3 +29,4 @@ Source: [Software Architecture Patterns](http://www.oreilly.com/programming/free
 
 ## Further Reading
 * [Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
+* [Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/)
