@@ -17,4 +17,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Further Reading
-* [Lorem ipsum dolor sit amet, consectetur adipisicing elit.]()
+* [Metrics-Driven Development](http://blog.librato.com/posts/2014/7/16/metrics-driven-development)
+* [Metrics-Driven Development](https://www.infoq.com/articles/metrics-driven-development)
+* [Metrics-Driven Development](https://sookocheff.com/post/mdd/mdd/)
