@@ -57,7 +57,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
   <tr>
     <td class="tg-v6kb">STRATEGIC</td>
     <td class="tg-v1zw"><a href="trust-and-guidance.html" title="Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception">Trust and Guidance</a></td>
-    <td class="tg-q8lq"><a href="business-capabilities.html" title="Capabilities-Driven Strategy enable companies to become more coherent and to gain a right to win in the markets in which they have decided to compete. Applying a capabilities lens changes how executives make important strategic decisions">Business Capabilities</a></td>
+    <td class="tg-q8lq"><a href="business-capabilities.html" title="A business capability defines what a business does at its core. This differs from “how” things are done or where they are done. Business capabilities are the core of the business architecture">Business Capabilities</a></td>
     <td class="tg-cw1h"><a href="products-not-projects.html" title=" ">Products<br>not Projects</a></td>
     <td class="tg-q8lq"><a href="microservices-architecture.html" title="The term Microservice Architecture has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.">Microservices Architecture</a></td>
     <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used or Bought</a></td>
