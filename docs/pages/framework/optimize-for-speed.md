@@ -1,12 +1,13 @@
 ---
-title: OPTIMIZE FOR SPEED NOT EFFICIENCY
+title: OPTIMIZE FOR SPEED
 keywords:
 sidebar: framework_sidebar
-permalink: optimize-for-speed-not-efficiency.html
+permalink: optimize-for-speed.html
 toc: true
 summary:
 ---
-## Defining "Optimize for Speed not Efficiency"
+
+## Defining Optimize for Speed
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Justification Of The Choices Made

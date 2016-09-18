@@ -1,13 +1,13 @@
 ---
-title: CLOUD-ONLY
-keywords: Cloud
+title: PUBLIC CLOUD ONLY
+keywords: Public Cloud
 sidebar: framework_sidebar
-permalink: cloud-only.html
+permalink: public-cloud-only.html
 toc: true
 summary:
 ---
 
-## Defining Cloud-only
+## Defining Public Cloud Only
 > By 2019, more than 30 percent of the 100 largest vendors' new software investments will have shifted from cloud-first to cloud-only.
 
 > The now well-established stance of cloud-first in software design and planning is gradually being augmented or replaced by cloud-only. This also applies to private and hybrid cloud scenarios.
@@ -21,6 +21,8 @@ Source: [Gartner Says By 2020, a Corporate "No-Cloud" Policy Will Be as Rare as 
 
 ## The Other Alternatives That Were Not Chosen
 * "Cloud-first" strategy
+* "Private Cloud" strategy
+* "Hybrid Cloud" strategy
 
 ## Further Reading
 * [Gartner Says By 2020, a Corporate "No-Cloud" Policy Will Be as Rare as a "No-Internet" Policy Is Today](http://www.gartner.com/newsroom/id/3354117)

@@ -124,12 +124,12 @@ entries:
       url: /microservices-architecture.html
       output: web, pdf
 
-    - title: Being Cloud Native
-      url: /being-cloud-native.html
+    - title: Event-driven Architecture Broker Topology
+      url: /event-driven-architecture-broker-topology.html
       output: web, pdf
 
-    - title: Dealing With Legacy
-      url: /dealing-with-legacy.html
+    - title: Greenfield and Legacy
+      url: /greenfield-legacy.html
       output: web, pdf
 
     - title: Standardizations
@@ -160,8 +160,8 @@ entries:
       url: /respect-the-bounded-context.html
       output: web, pdf
 
-    - title: Technological Mastery
-      url: /technological-mastery.html
+    - title: Pursue Mastery
+      url: /pursue-mastery.html
       output: web, pdf
 
   - title: Ship
@@ -176,8 +176,8 @@ entries:
       url: /created-and-proven-by-doing.html
       output: web, pdf
 
-    - title: "Optimize for Speed not Efficiency"
-      url: /optimize-for-speed-not-efficiency.html
+    - title: Optimize for Speed
+      url: /optimize-for-speed.html
       output: web, pdf
 
     - title: Continuous Deployment
@@ -188,12 +188,12 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Cloud-only
-      url: /cloud-only.html
+    - title: Public Cloud Only
+      url: /public-cloud-only.html
       output: web, pdf
 
-    - title: One Container Platform
-      url: /one-container-platform.html
+    - title: One Micro-PaaS
+      url: /one-micro-paas.html
       output: web, pdf
 
     - title: Self-service Services

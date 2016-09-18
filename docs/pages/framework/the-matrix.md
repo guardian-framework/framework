@@ -48,31 +48,32 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-v1zw"><a href="collaboration.html" title=" ">Collaboration</a></td>
     <td class="tg-q8lq"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
     <td class="tg-cw1h"><a href="diversity.html" title=" ">Diversity</a></td>
-    <td class="tg-q8lq"><p title="Not Applicable">N/A</p></td>
+    <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
     <td class="tg-cw1h"><a href="open-source-first.html" title=" ">Open Source First</a></td>
     <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
-    <td class="tg-cw1h"><a href="cloud-only.html" title=" ">Cloud-only</a></td>
+    <td class="tg-cw1h"><a href="public-cloud-only.html" title=" ">Public Cloud Only</a></td>
     <td class="tg-q8lq"><a href="customer-value.html" title=" ">Customer Value</a></td>
   </tr>
   <tr>
     <td class="tg-v6kb">STRATEGIC</td>
-    <td class="tg-v1zw"><a href="trust-and-guidance.html" title="Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception">Trust And Guidance</a></td>
+    <td class="tg-v1zw"><a href="trust-and-guidance.html" title="Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception">Trust and Guidance</a></td>
     <td class="tg-q8lq"><a href="business-capabilities.html" title="Capabilities-Driven Strategy enable companies to become more coherent and to gain a right to win in the markets in which they have decided to compete. Applying a capabilities lens changes how executives make important strategic decisions">Business Capabilities</a></td>
-    <td class="tg-cw1h"><a href="products-not-projects.html" title=" ">Products<br>Not Projects</a></td>
-    <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
-    <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used Or Bought</a></td>
-    <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created And Proven By Doing</a></td>
-    <td class="tg-cw1h"><a href="one-platform.html" title=" ">ONE<br>Platform</a></td>
-    <td class="tg-q8lq"><a href="work-smarter-not-harder.html" title=" ">Work Smarter, Not Harder</a></td>
+    <td class="tg-cw1h"><a href="products-not-projects.html" title=" ">Products<br>not Projects</a></td>
+    <td class="tg-q8lq"><a href="microservices-architecture.html" title="The term Microservice Architecture has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.">Microservices Architecture</a></td>
+    <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used or Bought</a></td>
+    <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created and Proven By Doing</a></td>
+    <td class="tg-cw1h"><a href="one-micro-paas.html" title=" ">ONE<br>Micro-PaaS</a></td>
+    <td class="tg-q8lq"><a href="work-smarter-not-harder.html" title=" ">Work Smarter, not Harder</a></td>
   </tr>
   <tr>
     <td class="tg-v6kb">OPERATIONAL</td>
-    <td class="tg-v1zw"><a href="autonomy-mastery-and-purpose.html" title="To motivate employees who work beyond basic tasks, give them these three factors to increase performance and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</a></td>
+    <td class="tg-v1zw"><a href="autonomy-mastery-and-purpose.html" title="To motivate employees who work beyond basic tasks, give them these three factors to increase performance and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery and Purpose</a></td>
     <td class="tg-q8lq"><a href="business-services.html" title=" ">Business Services</a></td>
     <td class="tg-cw1h"><a href="bizdevops.html" title=" ">BizDevOps</a></td>
-    <td class="tg-q8lq"><a href="microservices-architecture.html" title="The term Microservice Architecture has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.">Microservices Architecture</a></td>
+    <td class="tg-q8lq"><a href="" title=" ">Event-driven Architecture Broker Topology
+</a></td>
     <td class="tg-cw1h"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
-    <td class="tg-q8lq"><a href="optimize-for-speed-not-efficiency.html" title=" ">Optimize For Speed, Not Efficiency</a></td>
+    <td class="tg-q8lq"><a href="optimize-for-speed.html" title=" ">Optimize for Speed</a></td>
     <td class="tg-cw1h"><a href="self-service-services.html" title="Self-service is over the phone, web, and email to facilitate customer interactions using automation. Self-service software and self-service apps (for example online banking apps, web portals with shops, self-service check-in at the airport) become increasingly common.">Self-service Services</a></td>
     <td class="tg-q8lq"><a href="observe-orient-decide-act.html" title="By deploying a change and measuring its effects, the team gain confidence that any software change is reliable, performant, and affects the metric of interest, confirming any hypothesis">Observe, Orient, Decide and Act</a></td>
   </tr>
@@ -81,8 +82,8 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="empathy.html" title=" ">Empathy</a></td>
     <td class="tg-q8lq"><a href="domain-model.html" title=" ">Domain Model</a></td>
     <td class="tg-cw1h"><a href="self-organization.html" title=" ">Self-organization</a></td>
-    <td class="tg-q8lq"><a href="being-cloud-native.html" title=" ">Being Cloud Native</a> And <a href="dealing-with-legacy.html" title=" ">Dealing With Legacy</a></td>
-    <td class="tg-cw1h"><a href="technological-mastery.html" title="The acquisition of technological mastery—that is, of the ability to make effective use of technological knowledge—is critical to the achievement of self-sustaining development.">Technological Mastery</a></td>
+    <td class="tg-q8lq"><a href="greenfield-legacy.html" title=" ">Greenfield<br>and Legacy</a></td>
+    <td class="tg-cw1h"><a href="pursue-mastery.html" title="Mastery can only be attained through the development of a comprehensive knowledge or skill. It is the highest order of accomplishment in our craft. Mastery does not require you to be perfect, but it does require you to pursue perfection.">Pursue Mastery</a></td>
     <td class="tg-q8lq"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
     <td class="tg-cw1h"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
     <td class="tg-q8lq"><a href="metrics-driven-development.html" title="Metrics-Driven Development (MDD) The use of real-time metrics to drive rapid, precise, and granular software iterations. MDD is an emerging term developing from the practices of continuous integration, continuous delivery, dev ops, and agile software methodologies">Metrics-Driven Development</a></td>
