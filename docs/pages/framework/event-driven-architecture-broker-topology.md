@@ -18,10 +18,14 @@ As you can see from the diagram, there is no central event-mediator component co
 Source: [Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 ## Justification Of The Choices Made
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+The broker topology differs from the mediator topology in that
+there is no central event mediator; rather, the message flow is distributed across the event processor components in a chain-like fashion through a lightweight message broker (e.g., ActiveMQ, HornetQ, etc.). This topology is useful when you have a relatively
+simple event processing flow and you do not want (or need) central event orchestration.
+
+Source: [Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 ## The Other Alternatives That Were Not Chosen
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+* Mediator topology
 
 ## Further Reading
-* [Lorem ipsum dolor sit amet, consectetur adipisicing elit.]()
+* [Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
