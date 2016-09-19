@@ -23,10 +23,14 @@ Source: [Cooperation vs Collaboration](http://cloudhead.headmine.net/post/327911
 <iframe src="https://embed-ssl.ted.com/talks/howard_rheingold_on_collaboration.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 ## Justification Of The Choices Made
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Companies need their critical workforces to perform smarter, faster and more productively. Achieving that goal requires embedding collaborative technologies deep into processes and incentivizing collaborative behaviors—ultimately transforming the way organizations turn knowledge into action.
+
+Source: [Accenture](https://www.accenture.com/us-en/insight-outlook-how-collaboration-technologies-are-improving-process-workforce-business)
 
 ## The Other Alternatives That Were Not Chosen
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+* Cooperation
+* "Doing Everything Yourself"
 
 ## Further Reading
 * [Cooperation vs Collaboration](http://cloudhead.headmine.net/post/3279118157/cooperation-vs-collaboration)
+* [How collaboration technologies are improving process, workforce and business performance](https://www.accenture.com/us-en/insight-outlook-how-collaboration-technologies-are-improving-process-workforce-business)
