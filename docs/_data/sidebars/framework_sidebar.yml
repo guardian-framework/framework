@@ -192,16 +192,16 @@ entries:
       url: /public-cloud-only.html
       output: web, pdf
 
-    - title: One Micro-PaaS
-      url: /one-micro-paas.html
-      output: web, pdf
-
     - title: Self-service Services
       url: /self-service-services.html
       output: web, pdf
 
     - title: "You Build It, You Run It"
       url: /you-build-it-you-run-it.html
+      output: web, pdf
+
+    - title: Micro-PaaS
+      url: /micro-paas.html
       output: web, pdf
 
   - title: Change
