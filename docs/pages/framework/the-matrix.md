@@ -52,7 +52,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="open-source-first.html" title=" ">Open Source First</a></td>
     <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
     <td class="tg-cw1h"><a href="public-cloud-only.html" title=" ">Public Cloud Only</a></td>
-    <td class="tg-q8lq"><a href="customer-value.html" title=" ">Customer Value</a></td>
+    <td class="tg-q8lq"><a href="customer-value.html" title="The essense of creating a value is trading something that is low cost to you for something that is of high value to your cotumer">Customer Value</a></td>
   </tr>
   <tr>
     <td class="tg-v6kb">STRATEGIC</td>
