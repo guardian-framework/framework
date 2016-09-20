@@ -50,9 +50,9 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="diversity.html" title=" ">Diversity</a></td>
     <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
     <td class="tg-cw1h"><a href="open-source-first.html" title=" ">Open Source First</a></td>
-    <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created and Proven By Doing</a></td>
+    <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
     <td class="tg-cw1h"><a href="public-cloud-only.html" title=" ">Public Cloud Only</a></td>
-    <td class="tg-q8lq"><a href="outside-in.html" title=" ">Outside In</a></td>
+    <td class="tg-q8lq"><a href="customer-value.html" title="The essense of creating a value is trading something that is low cost to you for something that is of high value to your cotumer">Customer Value</a></td>
   </tr>
   <tr>
     <td class="tg-v6kb">STRATEGIC</td>
@@ -61,9 +61,9 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="products-not-projects.html" title="Products have a measurable ROI in terms of customer value, projects don't.">Products<br>Not Projects</a></td>
     <td class="tg-q8lq"><a href="microservices-architecture.html" title="The term Microservice Architecture has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.">Microservices Architecture</a></td>
     <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used or Bought</a></td>
-    <td class="tg-q8lq"><a href="optimize-for-speed.html" title=" ">Optimize for Speed</a></td>
+    <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created and Proven By Doing</a></td>
     <td class="tg-cw1h"><a href="self-service-services.html" title="Self-service is over the phone, web, and email to facilitate customer interactions using automation. Self-service software and self-service apps (for example online banking apps, web portals with shops, self-service check-in at the airport) become increasingly common.">Self-service Services</a></td>
-    <td class="tg-q8lq"><a href="continuous-improvement.html" title=" ">Continuous Improvement</a></td>
+    <td class="tg-q8lq"><a href="work-smarter-not-harder.html" title=" ">Work Smarter, Not Harder</a></td>
   </tr>
   <tr>
     <td class="tg-v6kb">OPERATIONAL</td>
@@ -73,20 +73,20 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-q8lq"><a href="" title=" ">Event-driven Architecture Broker Topology
 </a></td>
     <td class="tg-cw1h"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
-    <td class="tg-q8lq"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
+    <td class="tg-q8lq"><a href="optimize-for-speed.html" title=" ">Optimize for Speed</a></td>
     <td class="tg-cw1h"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
-    <td class="tg-q8lq"><a href="metrics-driven.html" title="Peter Drucker, legendary management consultant, once said: What's measured, improves.">Metrics-Driven</a></td>
+    <td class="tg-q8lq"><a href="observe-orient-decide-act.html" title="By deploying a change and measuring its effects, the team gain confidence that any software change is reliable, performant, and affects the metric of interest, confirming any hypothesis">Observe, Orient, Decide and Act</a></td>
   </tr>
   <tr>
     <td class="tg-fwqm">TACTICAL</td>
-    <td class="tg-cw1h"><a href="passion.html" title=" ">Passion</a></td>
+    <td class="tg-cw1h"><a href="empathy.html" title=" ">Empathy</a></td>
     <td class="tg-q8lq"><a href="domain-model.html" title=" ">Domain Model</a></td>
     <td class="tg-cw1h"><a href="self-organization.html" title=" ">Self-organization</a></td>
     <td class="tg-q8lq"><a href="greenfield-legacy.html" title=" ">Greenfield<br>and Legacy</a></td>
     <td class="tg-cw1h"><a href="pursue-mastery.html" title="Mastery can only be attained through the development of a comprehensive knowledge or skill. It is the highest order of accomplishment in our craft. Mastery does not require you to be perfect, but it does require you to pursue perfection.">Pursue Mastery</a></td>
-    <td class="tg-q8lq"><a href="deployment-release.html" title="Just because the code is deployed to production that does not necessarily mean that a new function is released.">Deployment != Release</a></td>
+    <td class="tg-q8lq"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
     <td class="tg-cw1h"><a href="micro-paas.html" title=" ">Micro-PaaS</a></td>
-    <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
+    <td class="tg-q8lq"><a href="metrics-driven-development.html" title="Metrics-Driven Development (MDD) The use of real-time metrics to drive rapid, precise, and granular software iterations. MDD is an emerging term developing from the practices of continuous integration, continuous delivery, dev ops, and agile software methodologies">Metrics-Driven Development</a></td>
   </tr>
 </table>
 

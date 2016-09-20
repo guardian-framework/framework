@@ -68,8 +68,8 @@ entries:
       url: /autonomy-mastery-and-purpose.html
       output: web, pdf
 
-    - title: Empathy
-      url: /empathy.html
+    - title: Passion
+      url: /passion.html
       output: web, pdf
 
   - title: Context And Purpose
@@ -168,10 +168,6 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Time to Customer Value
-      url: /time-to-customer-value.html
-      output: web, pdf
-
     - title: Created and Proven by Doing
       url: /created-and-proven-by-doing.html
       output: web, pdf
@@ -182,6 +178,10 @@ entries:
 
     - title: Continuous Deployment
       url: /continuous-deployment.html
+      output: web, pdf
+
+    - title: Deployment != Release
+      url: /deployment-release.html
       output: web, pdf
 
   - title: Run
@@ -208,18 +208,18 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Customer Value
-      url: /customer-value.html
+    - title: Outside In
+      url: /outside-in.html
       output: web, pdf
 
-    - title: Work Smarter, Not Harder
-      url: /work-smarter-not-harder.html
+    - title: Continuous Improvement
+      url: /continuous-improvement.html
       output: web, pdf
 
-    - title: Observe, Orient, Decide and Act
-      url: /observe-orient-decide-act.html
+    - title: Metrics-Driven
+      url: /metrics-driven.html
       output: web, pdf
 
-    - title: Metrics-Driven Development
-      url: /metrics-driven-development.html
+    - title: Time to Customer Value
+      url: /time-to-customer-value.html
       output: web, pdf

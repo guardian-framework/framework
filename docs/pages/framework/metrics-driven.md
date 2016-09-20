@@ -1,13 +1,13 @@
 ---
-title: METRICS-DRIVEN DEVELOPMENT
+title: METRICS-DRIVEN
 keywords: Metrics Development
 sidebar: framework_sidebar
-permalink: metrics-driven-development.html
+permalink: metrics-driven.html
 toc: true
-summary: Metrics-Driven Development (MDD) The use of real-time metrics to drive rapid, precise, and granular software iterations. MDD is an emerging term developing from the practices of continuous integration, continuous delivery, dev ops, and agile software methodologies.
+summary: Peter Drucker, legendary management consultant, once said: "What's measured, improves."
 ---
 
-## Defining Metrics-Driven Development
+## Defining Metrics-Driven
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Justification Of The Choices Made
