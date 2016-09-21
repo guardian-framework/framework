@@ -23,6 +23,9 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 .tg .tg-v6kb{font-weight:bold;background-color:#347dbe;color:#ffffff;vertical-align:middle;text-align:center;min-width:120px}
 .tg .tg-cw1h{background-color:#f7fdfa;vertical-align:middle;text-align:center;min-width:120px}
 .tg .tg-y0xi{background-color:#c0c0c0;color:#ffffff;vertical-align:middle;text-align:center;min-width:120px}
+.tg .tg-kj29{background-color:#bdcde2;text-align:center}
+.tg .tg-d36c{background-color:#939fb0;text-align:center}
+.tg .tg-emls{background-color:#69727e;text-align:center}
 </style>
 <table class="tg">
   <tr>
@@ -72,21 +75,30 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="bizdevops.html" title="For success, create and nurture product-centric teams that partner with both customers and business stakeholders, collectively owning the business outcome of the technology they produce.">BizDevOps</a></td>
     <td class="tg-q8lq"><a href="" title=" ">Event-driven Architecture Broker Topology
 </a></td>
-    <td class="tg-cw1h"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
+    <td class="tg-cw1h"><a href="respect-the-bounded-context.html" title="Bounded Context is a central pattern in Domain-Driven Design. It is the focus of DDD's strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.">Respect The Bounded Context</a></td>
     <td class="tg-q8lq"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
     <td class="tg-cw1h"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
     <td class="tg-q8lq"><a href="metrics-driven.html" title="Peter Drucker, legendary management consultant, once said: What's measured, improves.">Metrics-Driven</a></td>
   </tr>
   <tr>
-    <td class="tg-fwqm">TACTICAL</td>
+    <td class="tg-fwqm"rowspan="4">TACTICAL</td>
     <td class="tg-cw1h"><a href="passion.html" title=" ">Passion</a></td>
-    <td class="tg-q8lq"><a href="domain-model.html" title=" ">Domain Model</a></td>
+    <td class="tg-q8lq"><a href="domain-model.html" title="At its worst business logic can be very complex. Rules and logic describe many different cases and slants of behavior, and it's this complexity that objects were designed to work with. A Domain Model creates a web of interconnected objects, where each object represents some meaningful individual, whether as large as a corporation or as small as a single line on an order form.">Domain Model</a></td>
     <td class="tg-cw1h"><a href="self-organization.html" title=" ">Self-organization</a></td>
     <td class="tg-q8lq"><a href="greenfield-legacy.html" title=" ">Greenfield<br>and Legacy</a></td>
     <td class="tg-cw1h"><a href="pursue-mastery.html" title="Mastery can only be attained through the development of a comprehensive knowledge or skill. It is the highest order of accomplishment in our craft. Mastery does not require you to be perfect, but it does require you to pursue perfection.">Pursue Mastery</a></td>
     <td class="tg-q8lq"><a href="deployment-release.html" title="Just because the code is deployed to production that does not necessarily mean that a new function is released.">Deployment != Release</a></td>
     <td class="tg-cw1h"><a href="micro-paas.html" title=" ">Micro-PaaS</a></td>
     <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
+  </tr>
+  <tr>
+    <td class="tg-kj29" colspan="8"><a href=" " title=" ">Principles</a></td>
+  </tr>
+  <tr>
+    <td class="tg-d36c" colspan="8"><a href=" " title=" ">Patterns</a></td>
+  </tr>
+  <tr>
+    <td class="tg-emls" colspan="8"><a href=" " title=" ">Standardizations</a></td>
   </tr>
 </table>
 

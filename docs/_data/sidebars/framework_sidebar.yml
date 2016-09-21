@@ -132,18 +132,6 @@ entries:
       url: /greenfield-legacy.html
       output: web, pdf
 
-    - title: Standardizations
-      url: /standardizations.html
-      output: web, pdf
-
-    - title: Patterns
-      url: /patterns.html
-      output: web, pdf
-
-    - title: Principles
-      url: /principles.html
-      output: web, pdf
-
   - title: Build
     output: web, pdf
 
@@ -222,4 +210,25 @@ entries:
 
     - title: Time to Customer Value
       url: /time-to-customer-value.html
+      output: web, pdf
+
+  - title: Principles
+    output: web, pdf
+
+    - title: Overview Principles
+      url: /principles.html
+      output: web, pdf
+
+  - title: Patterns
+    output: web, pdf
+
+    - title: Overview Patterns
+      url: /patterns.html
+      output: web, pdf
+
+  - title: Standardizations
+    output: web, pdf
+
+    - title: Overview Standardizations
+      url: /standardizations.html
       output: web, pdf
