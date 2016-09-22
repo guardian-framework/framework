@@ -188,8 +188,8 @@ entries:
       url: /you-build-it-you-run-it.html
       output: web, pdf
 
-    - title: Micro-PaaS
-      url: /micro-paas.html
+    - title: One Platform
+      url: /one-platform.html
       output: web, pdf
 
   - title: Change
