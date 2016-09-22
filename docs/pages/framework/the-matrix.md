@@ -24,8 +24,8 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 .tg .tg-cw1h{background-color:#f7fdfa;vertical-align:middle;text-align:center;min-width:120px}
 .tg .tg-y0xi{background-color:#c0c0c0;color:#ffffff;vertical-align:middle;text-align:center;min-width:120px}
 .tg .tg-kj29{background-color:#bdcde2;text-align:center}
-.tg .tg-d36c{background-color:#939fb0;text-align:center}
-.tg .tg-emls{background-color:#69727e;text-align:center}
+.tg .tg-d36c{background-color:#a8b6c9;text-align:center}
+.tg .tg-emls{background-color:#939fb0;text-align:center}
 </style>
 <table class="tg">
   <tr>
@@ -50,7 +50,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-v6kb">POLITICAL</td>
     <td class="tg-v1zw"><a href="collaboration.html" title=" ">Collaboration</a></td>
     <td class="tg-q8lq"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
-    <td class="tg-cw1h"><a href="diversity.html" title=" ">Diversity</a></td>
+    <td class="tg-cw1h"><a href="diversity.html" title="Diversity is about to seize opportunities and overcome obstacles, take advantage of different skills, experiences and talents, equal rights, obligations and opportunities for all, regardless of background.">Diversity</a></td>
     <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
     <td class="tg-cw1h"><a href="open-source-first.html" title=" ">Open Source First</a></td>
     <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created and Proven By Doing</a></td>
