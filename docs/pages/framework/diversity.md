@@ -3,7 +3,7 @@ title: DIVERSITY
 keywords: Diversity
 sidebar: framework_sidebar
 permalink: diversity.html
-toc: false
+toc: true
 summary: Diversity is about to seize opportunities and overcome obstacles, take advantage of different skills, experiences and talents, equal rights, obligations and opportunities for all, regardless of background.
 ---
 
