@@ -6,8 +6,8 @@ permalink: being-digital.html
 summary: The rapid pase and fierce competition in the digital market place require a whole different level of customer focus, innovation and time to customer value.
 ---
 
-## Build
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+## Compose
+In todays world of IaaS, PaaS, SaaS and Open Source, innovation is happening all around us. Instead of having to build everything yourself (like in the old days) we will instead compose different offerings to solve our needs. That said, we still believe that some development will be necessary (for all the things that are unique to us) but at the same time, if others can benefit from our innovation they should be able to because we live by the principle "Open Source First".
 
 ## Ship
 Ship (Software deployment) is all of the activities that make a software system available for use.

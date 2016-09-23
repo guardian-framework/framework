@@ -19,10 +19,10 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_Ab
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
 
 ## Justification Of The Choices Made
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+We want motivated employees!
 
 ## The Other Alternatives That Were Not Chosen
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+* Command and Control
 
 ## Further Reading
 * [Drive: The Surprising Truth About What Motivates Us](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)

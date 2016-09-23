@@ -1,13 +1,13 @@
 ---
-title: One Platform
-keywords: Platform
+title: MICRO-PAAS
+keywords: Micro-PaaS
 sidebar: framework_sidebar
-permalink: one-platform.html
+permalink: micro-paas.html
 toc: true
 summary:
 ---
 
-## Defining One Platform
+## Defining Micro-PaaS
 > Containers as a Service is a model where IT organizations and developers can work together to build, ship and run their applications anywhere. CaaS enables an IT secured and managed application environment consisting of content and infrastructure, from which developers are able build and deploy applications in a self service manner.
 
 Source: [Containers As A Service (CaaS) As Your New Platform For Application Development And Operations](https://blog.docker.com/2016/02/containers-as-a-service-caas/)

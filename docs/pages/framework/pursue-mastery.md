@@ -1,8 +1,8 @@
 ---
-title: TECHNOLOGICAL MASTERY
-keywords: Technological Mastery
+title: PURSUE MASTERY
+keywords: Pursue Mastery
 sidebar: framework_sidebar
-permalink: technological-mastery.html
+permalink: pursue-mastery.html
 toc: true
 summary: Mastery can only be attained through the development of a comprehensive knowledge or skill. It is the highest order of accomplishment in our craft. Mastery does not require you to be perfect, but it does require you to pursue perfection.
 ---

@@ -42,3 +42,4 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Feature_toggle)
 ## Further Reading
 * [Continuous Delivery vs Continuous Deployment](https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/)
 * [Feature Toggles](http://martinfowler.com/articles/feature-toggles.html)
+* [Continuous Deployment with Containers](https://www.infoq.com/articles/continuous-deployment-containers)

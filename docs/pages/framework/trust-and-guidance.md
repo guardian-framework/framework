@@ -101,10 +101,13 @@ Source: [Innovation management](http://www.innovationmanagement.se/imtool-articl
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 
 ## Justification Of The Choices Made
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+The innovative leader, on the other hand, is better suited to an ambiguous or fluid situation. He or she is much more focused on creativity, innovation and helping the team to find new ways forward.
+
+Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
+
 
 ## The Other Alternatives That Were Not Chosen
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+* Command and Control
 
 ## Further Reading
 * [The Innovative Leader vs. the Command-and-Control Leader](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)

@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: THE FRAMEWORK
-  version:
+  version: 0
   folders:
 
   - title:
@@ -68,8 +68,8 @@ entries:
       url: /autonomy-mastery-and-purpose.html
       output: web, pdf
 
-    - title: Empathy
-      url: /empathy.html
+    - title: Passion
+      url: /passion.html
       output: web, pdf
 
   - title: Context And Purpose
@@ -124,27 +124,15 @@ entries:
       url: /microservices-architecture.html
       output: web, pdf
 
-    - title: Being Cloud Native
-      url: /being-cloud-native.html
+    - title: Event-driven Architecture Broker Topology
+      url: /event-driven-architecture-broker-topology.html
       output: web, pdf
 
-    - title: Dealing With Legacy
-      url: /dealing-with-legacy.html
+    - title: Greenfield and Legacy
+      url: /greenfield-legacy.html
       output: web, pdf
 
-    - title: Standardizations
-      url: /standardizations.html
-      output: web, pdf
-
-    - title: Patterns
-      url: /patterns.html
-      output: web, pdf
-
-    - title: Principles
-      url: /principles.html
-      output: web, pdf
-
-  - title: Build
+  - title: Compose
     output: web, pdf
 
     folderitems:
@@ -168,32 +156,28 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Time to Customer Value
-      url: /time-to-customer-value.html
-      output: web, pdf
-
     - title: Created and Proven by Doing
       url: /created-and-proven-by-doing.html
       output: web, pdf
 
-    - title: "Optimize for Speed not Efficiency"
-      url: /optimize-for-speed-not-efficiency.html
+    - title: Optimize for Speed
+      url: /optimize-for-speed.html
       output: web, pdf
 
     - title: Continuous Deployment
       url: /continuous-deployment.html
       output: web, pdf
 
+    - title: Deployment Does Not Equal Release
+      url: /deployment-release.html
+      output: web, pdf
+
   - title: Run
     output: web, pdf
 
     folderitems:
-    - title: Cloud-only
-      url: /cloud-only.html
-      output: web, pdf
-
-    - title: One Container Platform
-      url: /one-container-platform.html
+    - title: Public Cloud Only
+      url: /public-cloud-only.html
       output: web, pdf
 
     - title: Self-service Services
@@ -204,22 +188,47 @@ entries:
       url: /you-build-it-you-run-it.html
       output: web, pdf
 
+    - title: One Platform
+      url: /one-platform.html
+      output: web, pdf
+
   - title: Change
     output: web, pdf
 
     folderitems:
-    - title: Customer Value
-      url: /customer-value.html
+    - title: Outside In
+      url: /outside-in.html
       output: web, pdf
 
-    - title: Work Smarter, Not Harder
-      url: /work-smarter-not-harder.html
+    - title: Continuous Improvement
+      url: /continuous-improvement.html
       output: web, pdf
 
-    - title: Observe, Orient, Decide and Act
-      url: /observe-orient-decide-act.html
+    - title: Metrics-Driven
+      url: /metrics-driven.html
       output: web, pdf
 
-    - title: Metrics-Driven Development
-      url: /metrics-driven-development.html
+    - title: Time to Customer Value
+      url: /time-to-customer-value.html
+      output: web, pdf
+
+  - title: Principles
+    output: web, pdf
+
+    - title: Overview Principles
+      url: /principles.html
+      output: web, pdf
+
+  - title: Patterns
+    output: web, pdf
+
+    - title: Overview Patterns
+      url: /patterns.html
+      output: web, pdf
+
+  - title: Standardizations
+    output: web, pdf
+
+    - title: Overview Standardizations
+      url: /standardizations.html
       output: web, pdf
