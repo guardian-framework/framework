@@ -1,13 +1,13 @@
 ---
-title: DEPLOYMENT != RELEASE
+title: DEPLOYMENT DOES NOT EQUAL RELEASE
 keywords: deployment release
 sidebar: framework_sidebar
 permalink: deployment-release.html
 toc: true
-summary: Just because the code is deployed to production that does not necessarily mean that a new function is released.
+summary: The first thing to remember is that deployment does not equal release
 ---
 
-## Defining Deployment != Release
+## Defining Deployment Does Not Equal Release
 Just because the code is deployed to production that does not necessarily mean that a new function is released. The recommended pattern for this are Feature Toggles.
 
 ### Feature Toggles
@@ -27,3 +27,4 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Feature_toggle)
 
 ## Further Reading
 * [Four Principles of Low-Risk Software Releases](http://www.informit.com/articles/article.aspx?p=1833567&seqNum=2)
+* [Microsoft Azure Web Sites – A platform for continuous deployment](https://blogs.technet.microsoft.com/devops/2014/07/07/microsoft-azure-web-sites-a-platform-for-continuous-deployment/)

@@ -23,9 +23,6 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 .tg .tg-v6kb{font-weight:bold;background-color:#347dbe;color:#ffffff;vertical-align:middle;text-align:center;min-width:120px}
 .tg .tg-cw1h{background-color:#f7fdfa;vertical-align:middle;text-align:center;min-width:120px}
 .tg .tg-y0xi{background-color:#c0c0c0;color:#ffffff;vertical-align:middle;text-align:center;min-width:120px}
-.tg .tg-kj29{background-color:#bdcde2;text-align:center}
-.tg .tg-d36c{background-color:#a8b6c9;text-align:center}
-.tg .tg-emls{background-color:#939fb0;text-align:center}
 </style>
 <table class="tg">
   <tr>
@@ -52,7 +49,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-q8lq"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
     <td class="tg-cw1h"><a href="diversity.html" title="Diversity is about to seize opportunities and overcome obstacles, take advantage of different skills, experiences and talents, equal rights, obligations and opportunities for all, regardless of background.">Diversity</a></td>
     <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
-    <td class="tg-cw1h"><a href="open-source-first.html" title=" ">Open Source First</a></td>
+    <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used or Bought</a></td>
     <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created and Proven By Doing</a></td>
     <td class="tg-cw1h"><a href="public-cloud-only.html" title=" ">Public Cloud Only</a></td>
     <td class="tg-q8lq"><a href="outside-in.html" title=" ">Outside In</a></td>
@@ -63,10 +60,10 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-q8lq"><a href="business-capabilities.html" title="A business capability defines what a business does at its core. This differs from “how” things are done or where they are done. Business capabilities are the core of the business architecture">Business Capabilities</a></td>
     <td class="tg-cw1h"><a href="products-not-projects.html" title="Products have a measurable ROI in terms of customer value, projects don't.">Products<br>Not Projects</a></td>
     <td class="tg-q8lq"><a href="microservices-architecture.html" title="The term Microservice Architecture has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.">Microservices Architecture</a></td>
-    <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used or Bought</a></td>
+    <td class="tg-cw1h"><a href="respect-the-bounded-context.html" title="Bounded Context is a central pattern in Domain-Driven Design. It is the focus of DDD's strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.">Respect The Bounded Context</a></td>
     <td class="tg-q8lq"><a href="optimize-for-speed.html" title=" ">Optimize for Speed</a></td>
     <td class="tg-cw1h"><a href="self-service-services.html" title="Self-service is over the phone, web, and email to facilitate customer interactions using automation. Self-service software and self-service apps (for example online banking apps, web portals with shops, self-service check-in at the airport) become increasingly common.">Self-service Services</a></td>
-    <td class="tg-q8lq"><a href="continuous-improvement.html" title=" ">Continuous Improvement</a></td>
+    <td class="tg-q8lq"><a href="right-things-done-right.html" title=" ">Right Things Done Right</a></td>
   </tr>
   <tr>
     <td class="tg-v6kb">OPERATIONAL</td>
@@ -75,7 +72,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="bizdevops.html" title="For success, create and nurture product-centric teams that partner with both customers and business stakeholders, collectively owning the business outcome of the technology they produce.">BizDevOps</a></td>
     <td class="tg-q8lq"><a href="" title=" ">Event-driven Architecture Broker Topology
 </a></td>
-    <td class="tg-cw1h"><a href="respect-the-bounded-context.html" title="Bounded Context is a central pattern in Domain-Driven Design. It is the focus of DDD's strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.">Respect The Bounded Context</a></td>
+    <td class="tg-cw1h"><a href="technological-mastery.html" title="Mastery can only be attained through the development of a comprehensive knowledge or skill. It is the highest order of accomplishment in our craft. Mastery does not require you to be perfect, but it does require you to pursue perfection.">Technological Mastery</a></td>
     <td class="tg-q8lq"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
     <td class="tg-cw1h"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
     <td class="tg-q8lq"><a href="metrics-driven.html" title="Peter Drucker, legendary management consultant, once said: What's measured, improves.">Metrics-Driven</a></td>
@@ -86,20 +83,10 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-q8lq"><a href="domain-model.html" title="At its worst business logic can be very complex. Rules and logic describe many different cases and slants of behavior, and it's this complexity that objects were designed to work with. A Domain Model creates a web of interconnected objects, where each object represents some meaningful individual, whether as large as a corporation or as small as a single line on an order form.">Domain Model</a></td>
     <td class="tg-cw1h"><a href="self-organization.html" title=" ">Self-organization</a></td>
     <td class="tg-q8lq"><a href="greenfield-legacy.html" title=" ">Greenfield<br>and Legacy</a></td>
-    <td class="tg-cw1h"><a href="pursue-mastery.html" title="Mastery can only be attained through the development of a comprehensive knowledge or skill. It is the highest order of accomplishment in our craft. Mastery does not require you to be perfect, but it does require you to pursue perfection.">Pursue Mastery</a></td>
-    <td class="tg-q8lq"><a href="deployment-release.html" title="Just because the code is deployed to production that does not necessarily mean that a new function is released.">Deployment != Release</a></td>
+    <td class="tg-cw1h"><a href="open-source-first.html" title=" ">Open Source First</a></td>
+    <td class="tg-q8lq"><a href="deployment-release.html" title="The first thing to remember is that deployment does not equal release">Deployment Does Not Equal Release</a></td>
     <td class="tg-cw1h"><a href="one-platform.html" title=" ">One<br>Platform</a></td>
     <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
-  </tr>
-  <tr>
-    <td class="tg-kj29" colspan="9"><a href=" " title=" ">Principles</a></td>
-  </tr>
-  <tr>
-    <td class="tg-d36c" colspan="9"><a href=" " title=" ">Patterns</a></td>
-  </tr>
-  <tr>
-    <td class="tg-emls" colspan="9"><a href=" " title=" ">Standardizations</a></td>
-  </tr>
 </table>
 
 ## *Recommended Target Architecture

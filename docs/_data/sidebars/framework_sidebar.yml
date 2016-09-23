@@ -148,8 +148,8 @@ entries:
       url: /respect-the-bounded-context.html
       output: web, pdf
 
-    - title: Pursue Mastery
-      url: /pursue-mastery.html
+    - title: Technological Mastery
+      url: /technological-mastery.html
       output: web, pdf
 
   - title: Ship
@@ -168,7 +168,7 @@ entries:
       url: /continuous-deployment.html
       output: web, pdf
 
-    - title: Deployment != Release
+    - title: Deployment Does Not Equal Release
       url: /deployment-release.html
       output: web, pdf
 
