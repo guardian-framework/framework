@@ -39,7 +39,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
   </tr>
   <tr>
     <td class="tg-3is3">ARCHITECTURE<br>AND<br>DESIGN</td>
-    <td class="tg-r2hs">BUILD</td>
+    <td class="tg-r2hs">COMPOSE</td>
     <td class="tg-3is3">SHIP</td>
     <td class="tg-r2hs">RUN</td>
   </tr>

@@ -132,7 +132,7 @@ entries:
       url: /greenfield-legacy.html
       output: web, pdf
 
-  - title: Build
+  - title: Compose
     output: web, pdf
 
     folderitems:
