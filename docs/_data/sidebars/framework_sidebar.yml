@@ -212,9 +212,6 @@ entries:
       url: /time-to-customer-value.html
       output: web, pdf
 
-  - title:
-    output: web, pdf
-
   - title: Principles (Index)
     output: web, pdf
 
