@@ -50,7 +50,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="diversity.html" title="Diversity is about to seize opportunities and overcome obstacles, take advantage of different skills, experiences and talents, equal rights, obligations and opportunities for all, regardless of background.">Diversity</a></td>
     <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
     <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used or Bought</a></td>
-    <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created and Proven By Doing</a></td>
+    <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created<br>and Proven<br>By Doing</a></td>
     <td class="tg-cw1h"><a href="public-cloud-only.html" title=" ">Public Cloud Only</a></td>
     <td class="tg-q8lq"><a href="first-principle.html" title="The benefit of first principles thinking? It allows you to innovate in clear leaps, rather than building small improvements onto something that already exists.">First Principle</a></td>
   </tr>
@@ -61,7 +61,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="products-not-projects.html" title="Products have a measurable ROI in terms of customer value, projects don't.">Products<br>Not Projects</a></td>
     <td class="tg-q8lq"><a href="microservices-architecture.html" title="The term Microservice Architecture has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.">Microservices Architecture</a></td>
     <td class="tg-cw1h"><a href="respect-the-bounded-context.html" title="Bounded Context is a central pattern in Domain-Driven Design. It is the focus of DDD's strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.">Respect The Bounded Context</a></td>
-    <td class="tg-q8lq"><a href="optimize-for-speed.html" title=" ">Optimize for Speed</a></td>
+    <td class="tg-q8lq"><a href="optimize-for-speed.html" title=" ">Optimize<br>for Speed</a></td>
     <td class="tg-cw1h"><a href="self-service-services.html" title="Self-service is over the phone, web, and email to facilitate customer interactions using automation. Self-service software and self-service apps (for example online banking apps, web portals with shops, self-service check-in at the airport) become increasingly common.">Self-service Services</a></td>
     <td class="tg-q8lq"><a href="outside-in.html" title=" ">Outside In</a></td>
   </tr>
@@ -84,7 +84,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="self-organization.html" title=" ">Self-organization</a></td>
     <td class="tg-q8lq"><a href="greenfield-legacy.html" title=" ">Greenfield<br>and Legacy</a></td>
     <td class="tg-cw1h"><a href="open-source-first.html" title=" ">Open Source First</a></td>
-    <td class="tg-q8lq"><a href="deployment-release.html" title="The first thing to remember is that deployment does not equal release">Deployment Does Not Equal Release</a></td>
+    <td class="tg-q8lq"><a href="deployment-release.html" title="The first thing to remember is that deployment does not equal release">Deployment<br>Does Not<br>Equal Release</a></td>
     <td class="tg-cw1h"><a href="one-platform.html" title=" ">One<br>Platform</a></td>
     <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
   </tr>
