@@ -32,4 +32,4 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_Ab
 
 ## Further Reading
 * [Drive: The Surprising Truth About What Motivates Us](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)
-* [The puzzle of motivation | Dan Pink](https://youtu.be/rrkrvAUbU9Y)
+* [The puzzle of motivation by Dan Pink](https://youtu.be/rrkrvAUbU9Y)
