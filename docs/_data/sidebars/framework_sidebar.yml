@@ -212,7 +212,10 @@ entries:
       url: /time-to-customer-value.html
       output: web, pdf
 
-  - title: Index(Principles)
+  - title:
+    output: web, pdf
+
+  - title: Principles (Index)
     output: web, pdf
 
     folderitems:
@@ -220,7 +223,7 @@ entries:
       url: /principles.html
       output: web, pdf
 
-  - title: Index(Patterns)
+  - title: Patterns (Index)
     output: web, pdf
 
     folderitems:
@@ -228,7 +231,7 @@ entries:
       url: /patterns.html
       output: web, pdf
 
-  - title: Index(Standardizations)
+  - title: Standardizations (Index)
     output: web, pdf
 
     folderitems:
