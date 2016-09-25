@@ -14,7 +14,7 @@ summary: The benefit of "first principles" thinking? It allows you to innovate i
 
 
 ## The Other Alternatives That Were Not Chosen
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
 ## Further Reading
 * [WHAT IS CONTINUOUS IMPROVEMENT?](https://leankit.com/learn/kanban/continuous-improvement/)
