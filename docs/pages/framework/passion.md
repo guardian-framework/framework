@@ -2,7 +2,7 @@
 title: PASSION
 keywords: Passion
 sidebar: framework_sidebar
-permalink: Passion.html
+permalink: passion.html
 toc: true
 summary:
 ---
