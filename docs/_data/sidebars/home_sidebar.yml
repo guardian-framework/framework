@@ -17,9 +17,3 @@ entries:
     - title: THE METHODOLOGY
       url: /methodology_landing_page.html
       output: web
-    - title: BEING CLOUD NATIVE
-      url: /cloud-native-landing-page.html
-      output: web
-    - title: DEALING WITH LEGACY
-      url: /legacy-landing-page.html
-      output: web
