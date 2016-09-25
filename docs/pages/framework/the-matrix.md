@@ -87,7 +87,9 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-q8lq"><a href="deployment-release.html" title="The first thing to remember is that deployment does not equal release">Deployment Does Not Equal Release</a></td>
     <td class="tg-cw1h"><a href="one-platform.html" title=" ">One<br>Platform</a></td>
     <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
+  </tr>
 </table>
+
 
 ## *Recommended Target Architecture
 For more complex organisations it's likly that one target architecture will not be enough and there should be different architectures that can be used in different cases.
