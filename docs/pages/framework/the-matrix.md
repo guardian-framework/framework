@@ -52,7 +52,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used or Bought</a></td>
     <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created and Proven By Doing</a></td>
     <td class="tg-cw1h"><a href="public-cloud-only.html" title=" ">Public Cloud Only</a></td>
-    <td class="tg-q8lq"><a href="first-principle.html" title="The benefit of "first principles" thinking? It allows you to innovate in clear leaps, rather than building small improvements onto something that already exists.">First Principle</a></td>
+    <td class="tg-q8lq"><a href="first-principle.html" title="The benefit of first principles thinking? It allows you to innovate in clear leaps, rather than building small improvements onto something that already exists.">First Principle</a></td>
   </tr>
   <tr>
     <td class="tg-v6kb">STRATEGIC</td>
