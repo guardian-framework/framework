@@ -3,16 +3,16 @@ title: TRUST AND GUIDANCE
 keywords: Trust Guidance
 sidebar: framework_sidebar
 permalink: trust-and-guidance.html
-toc: false
+toc: true
 summary: Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception.
 ---
 
-## Defining Trust And Guidance
-> Let’s contrast two extremes of leadership style that I have designated as the command and control leader and the innovative leader.  The command and control leader is goal-oriented, authoritative and decisive. He or she is well suited to a structured regime with clear tasks. The innovative leader, on the other hand, is better suited to an ambiguous or fluid situation. He or she is much more focused on creativity, innovation and helping the team to find new ways forward.
+## Defining Trust
+> What makes a great leader? Management theorist Simon Sinek suggests, it's someone who makes their employees feel secure, who draws staffers into a circle of trust. But creating trust and safety — especially in an uneven economy — means taking on big responsibility.
 
-Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lmyZMtPVodo" frameborder="0" allowfullscreen></iframe>
 
-## Radical Candor — The Surprising Secret to Being a Good Boss
+## Defining Guidance
 > The single most important thing a boss can do, Scott has learned, is focus on guidance: giving it, receiving it, and encouraging it. Guidance, which is fundamentally just praise and criticism, is usually called “feedback,” but feedback is screechy and makes us want to put our hands over our ears. Guidance is something most of us long for.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MIh_992Nfes" frameborder="0" allowfullscreen></iframe>
@@ -101,7 +101,7 @@ Source: [Innovation management](http://www.innovationmanagement.se/imtool-articl
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 
 ## Justification Of The Choices Made
-The innovative leader, on the other hand, is better suited to an ambiguous or fluid situation. He or she is much more focused on creativity, innovation and helping the team to find new ways forward.
+Let’s contrast two extremes of leadership style that I have designated as the command and control leader and the innovative leader.  The command and control leader is goal-oriented, authoritative and decisive. He or she is well suited to a structured regime with clear tasks. The innovative leader, on the other hand, is better suited to an ambiguous or fluid situation. He or she is much more focused on creativity, innovation and helping the team to find new ways forward.
 
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 

@@ -79,7 +79,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
   </tr>
   <tr>
     <td class="tg-fwqm">TACTICAL</td>
-    <td class="tg-cw1h"><a href="passion.html" title=" ">Passion</a></td>
+    <td class="tg-cw1h"><a href="passion.html" title="A passion gives you a reason to keep learning and to work toward mastery">Passion</a></td>
     <td class="tg-q8lq"><a href="domain-model.html" title="At its worst business logic can be very complex. Rules and logic describe many different cases and slants of behavior, and it's this complexity that objects were designed to work with. A Domain Model creates a web of interconnected objects, where each object represents some meaningful individual, whether as large as a corporation or as small as a single line on an order form.">Domain Model</a></td>
     <td class="tg-cw1h"><a href="self-organization.html" title=" ">Self-organization</a></td>
     <td class="tg-q8lq"><a href="greenfield-legacy.html" title=" ">Greenfield<br>and Legacy</a></td>
