@@ -94,10 +94,9 @@ sidebars:
 - home_sidebar
 - framework_sidebar
 - methodology_sidebar
-- others
 
 description: "GUARDIAN - An Opinionated Inductive Guidance Framework for Digital Transformation"
-# the description is used in the feed.xml file
+# the description is used for the feed.xml file
 
 # needed for sitemap.xml file only
 url: https://guardian-framework.github.io/framework

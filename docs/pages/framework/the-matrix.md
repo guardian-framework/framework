@@ -94,4 +94,4 @@ For more complex organisations it's likly that one target architecture will not 
 
 In those cases just name the different target achitectures and assign them to each business service.
 
-All other columns and rows should remain the same no matter which target architecture.
+All other columns and rows should remain the same no matter which target architecture is choosen.
