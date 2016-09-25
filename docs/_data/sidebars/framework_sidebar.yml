@@ -196,12 +196,12 @@ entries:
     output: web, pdf
 
     folderitems:
+    - title: First Principle
+      url: /first-principle.html
+      output: web, pdf
+      
     - title: Outside In
       url: /outside-in.html
-      output: web, pdf
-
-    - title: Continuous Improvement
-      url: /continuous-improvement.html
       output: web, pdf
 
     - title: Metrics-Driven
@@ -212,7 +212,7 @@ entries:
       url: /time-to-customer-value.html
       output: web, pdf
 
-  - title: Principles
+  - title: Index(Principles)
     output: web, pdf
 
     folderitems:
@@ -220,7 +220,7 @@ entries:
       url: /principles.html
       output: web, pdf
 
-  - title: Patterns
+  - title: Index(Patterns)
     output: web, pdf
 
     folderitems:
@@ -228,7 +228,7 @@ entries:
       url: /patterns.html
       output: web, pdf
 
-  - title: Standardizations
+  - title: Index(Standardizations)
     output: web, pdf
 
     folderitems:
