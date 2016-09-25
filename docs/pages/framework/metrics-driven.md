@@ -4,7 +4,7 @@ keywords: Metrics Development
 sidebar: framework_sidebar
 permalink: metrics-driven.html
 toc: true
-summary: Peter Drucker, legendary management consultant, once said: "What's measured, improves."
+summary: Peter Drucker, legendary management consultant, once said 'What's measured, improves.'
 ---
 
 ## Defining Metrics-Driven

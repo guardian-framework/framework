@@ -215,6 +215,7 @@ entries:
   - title: Principles
     output: web, pdf
 
+    folderitems:
     - title: Overview Principles
       url: /principles.html
       output: web, pdf
@@ -222,6 +223,7 @@ entries:
   - title: Patterns
     output: web, pdf
 
+    folderitems:
     - title: Overview Patterns
       url: /patterns.html
       output: web, pdf
@@ -229,6 +231,7 @@ entries:
   - title: Standardizations
     output: web, pdf
 
+    folderitems:
     - title: Overview Standardizations
       url: /standardizations.html
       output: web, pdf
