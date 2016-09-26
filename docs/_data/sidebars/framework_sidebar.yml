@@ -176,8 +176,8 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Public Cloud Only
-      url: /public-cloud-only.html
+    - title: Always-On, Always-Available
+      url: /always-on-always-available.html
       output: web, pdf
 
     - title: Self-service Services
