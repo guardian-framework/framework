@@ -4,7 +4,7 @@ keywords: Collaboration
 sidebar: framework_sidebar
 permalink: collaboration.html
 toc: false
-summary: Collaboration is no longer just a strategy; it is the key to long-term business success and competitiveness. Businesses that realize this sooner rather than later will be the ones who win the game and succeed in the new global economy
+summary:
 ---
 
 ## Defining Collaboration
