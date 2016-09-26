@@ -69,7 +69,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-v6kb">OPERATIONAL</td>
     <td class="tg-v1zw"><a href="autonomy-mastery-and-purpose.html" title="To motivate employees who work beyond basic tasks, give them these three factors to increase performance and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery and Purpose</a></td>
     <td class="tg-q8lq"><a href="business-services.html" title=" ">Business Services</a></td>
-    <td class="tg-cw1h"><a href="bizdevops.html" title="For success, create and nurture product-centric teams that partner with both customers and business stakeholders, collectively owning the business outcome of the technology they produce.">BizDevOps</a></td>
+    <td class="tg-cw1h"><a href="truly-cross-functional.html" title="For success, create and nurture product-centric teams that partner with both customers and business stakeholders, collectively owning the business outcome of the technology they produce.">Truly Cross-functional</a></td>
     <td class="tg-q8lq"><a href="" title=" ">Event-driven Architecture Broker Topology
 </a></td>
     <td class="tg-cw1h"><a href="technological-mastery.html" title="Mastery can only be attained through the development of a comprehensive knowledge or skill. It is the highest order of accomplishment in our craft. Mastery does not require you to be perfect, but it does require you to pursue perfection.">Technological Mastery</a></td>
