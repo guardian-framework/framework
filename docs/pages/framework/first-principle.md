@@ -22,7 +22,6 @@ Throughout history, thousands of pundits have claimed that a certain industry, d
 * Reasoning from analogy
 
 ## Further Reading
-* [WHAT IS CONTINUOUS IMPROVEMENT?](https://leankit.com/learn/kanban/continuous-improvement/)
-* [Why Continuous Improvement Is Worth It?](https://www.petrikainulainen.net/software-development/processes/why-continuous-improvement-is-worth-it/)
-* [The SIMPLE Answer to Digital Strategy](https://www.thoughtworks.com/insights/blog/simple-answer-digital-strategy)
+* [The First Principles Method Explained by Elon Musk](https://www.youtube.com/watch?v=NV3sBlRgzTI)
 * [Elon Musk’s Secret Weapon A Beginner’s Guide to First Principles in Business](https://envato.com/blog/elon-musks-secret-weapon/)
+
