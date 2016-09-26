@@ -4,7 +4,7 @@ keywords: Collaboration
 sidebar: framework_sidebar
 permalink: collaboration.html
 toc: false
-summary:
+summary: Collaboration is no longer just a strategy: it is the key to long-term business success and competitiveness. Businesses that realize this sooner rather than later will be the ones who win the game and succeed in the new global economy.
 ---
 
 ## Defining Collaboration
@@ -16,7 +16,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Collaboration)
 A new culture of learning is together with the Internet pushing the boundaries of research and knowledge creation. On a journey from Danish biology garages to Google's headquarters, the film explores how the Internet is changing the ways in which we do science and create knowledge.
 
 'Collaboration - On the Edge of a New Paradigm?' explains the philosophical and scientific development from the idea of the isolated geniuses or science created in isolated paradigms, to how interdisciplinary collaboration seems to be a requirement to face the grand challenges of todays society . The documentary ask the essential question: Are we on the threshold of a revolutionary paradigm shift? Get these insights yourself from some of the leadings minds of modern research.
-
+<br><br>
 <iframe src="https://player.vimeo.com/video/119101747?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/119101747">Collaboration - A documentary</a> from <a href="https://vimeo.com/openmedialab">Open Media Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 

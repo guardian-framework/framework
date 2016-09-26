@@ -45,7 +45,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
   </tr>
   <tr>
     <td class="tg-v6kb">POLITICAL</td>
-    <td class="tg-v1zw"><a href="collaboration.html" title=" ">Collaboration</a></td>
+    <td class="tg-v1zw"><a href="collaboration.html" title="Collaboration is no longer just a strategy: it is the key to long-term business success and competitiveness. Businesses that realize this sooner rather than later will be the ones who win the game and succeed in the new global economy.">Collaboration</a></td>
     <td class="tg-q8lq"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
     <td class="tg-cw1h"><a href="diversity.html" title="Diversity is about to seize opportunities and overcome obstacles, take advantage of different skills, experiences and talents, equal rights, obligations and opportunities for all, regardless of background.">Diversity</a></td>
     <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
