@@ -104,8 +104,8 @@ entries:
       url: /products-not-projects.html
       output: web, pdf
 
-    - title: BizDevOps
-      url: /bizdevops.html
+    - title: Truly Cross-functional
+      url: /truly-cross-functional.html
       output: web, pdf
 
     - title: Self-organization
