@@ -45,13 +45,13 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
   </tr>
   <tr>
     <td class="tg-v6kb">POLITICAL</td>
-    <td class="tg-v1zw"><a href="collaboration.html" title="Collaboration is no longer just a strategy: it is the key to long-term business success and competitiveness. Businesses that realize this sooner rather than later will be the ones who win the game and succeed in the new global economy.">Collaboration</a></td>
+    <td class="tg-v1zw"><a href="collaboration.html" title="Collaboration is no longer just a strategy: it is the key to long-term business success and competitiveness. Businesses that realize this sooner rather than later will be the ones who win the game and succeed in the new global economy">Collaboration</a></td>
     <td class="tg-q8lq"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
     <td class="tg-cw1h"><a href="diversity.html" title="Diversity is about to seize opportunities and overcome obstacles, take advantage of different skills, experiences and talents, equal rights, obligations and opportunities for all, regardless of background.">Diversity</a></td>
     <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
     <td class="tg-cw1h"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used or Bought</a></td>
     <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created<br>and Proven<br>By Doing</a></td>
-    <td class="tg-cw1h"><a href="public-cloud-only.html" title=" ">Public Cloud Only</a></td>
+    <td class="tg-cw1h"><a href="always-on-always-available.html" title=" ">Always-On, Always-Available</a></td>
     <td class="tg-q8lq"><a href="first-principle.html" title="The benefit of first principles thinking? It allows you to innovate in clear leaps, rather than building small improvements onto something that already exists.">First Principle</a></td>
   </tr>
   <tr>
