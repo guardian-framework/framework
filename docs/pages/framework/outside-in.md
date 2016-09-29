@@ -17,7 +17,6 @@ Outside-in thinking means that you look at your business from the customer's per
 Don Smith talks about the outside-in perspektive and the Agile organization.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xn2QXfax6kA" frameborder="0" allowfullscreen></iframe>
 
-Source:[ YouTube](https://www.youtube.com/watch?v=xn2QXfax6kA)
 ## Justification Of The Choices Made
 One of the most common business phenomena is also one of the most perplexing: when successful companies face big changes in their environment, they often fail to respond effectively. Unable to defend themselves against competitors armed with new products, technologies, or strategies, they watch their sales and profits erode, their best people leave, and their stock valuations tumble. Some ultimately manage to recover—usually after painful rounds of downsizing and restructuring—but many don’t.
 Source: [Harvard Business review](https://hbr.org/1999/07/why-good-companies-go-bad)
