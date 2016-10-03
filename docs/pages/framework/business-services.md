@@ -30,6 +30,9 @@ As with the chicken or the egg causality dilemma first there has to be a egg tha
 
 ![One business service to rule all other services](images/Business-service-for-services.png)
 
+### Review process
+Due the importance of the decisions made by this service, the review process is of the utmost importance. It's important to get different groups opinions before making a decision. The whole process should be made as public as possible to minimize any negative effect on other business services or the company as a whole.
+
 ## Template for establishing a business service
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
