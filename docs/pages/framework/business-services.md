@@ -16,6 +16,8 @@ A business service is created to realize a business capability. The business cap
 
 ![Business Service formed around a business capability](images/business-service-capability.png)
 
+<div>Icons made by <a href="http://www.flaticon.com/authors/gregor-cresnar" title="Gregor Cresnar">Gregor Cresnar</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
 Viewed from the outside, a business service has commitments to deliver services to it's customers based on the purpose. From a technology perspective most business services will offer digital services and/or conversion services (interfaces) for the customers to use in a self-service manner. Defined metrics (given to the service upon creation or revision) help the service to evaluate how it's performing and also for other services to see the progress.
 
 Viewed from the inside the business service is operated be the business owner with the help of his/her cross-functional team, it's own technology (not shared with other services), information and processes.
@@ -29,6 +31,8 @@ The business owner is the only resource that is allocated to the service upon cr
 As with the chicken or the egg causality dilemma first there has to be a egg that becomes a chicken that can lay other eggs. The first business service that has to be formed is the service that has the purpose of creating all other business services. This service is the only one that can create, change and remove business services.
 
 ![One business service to rule all other services](images/Business-service-for-services.png)
+
+<div>Icons made by <a href="http://www.flaticon.com/authors/gregor-cresnar" title="Gregor Cresnar">Gregor Cresnar</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 ### Review process
 Due the importance of the decisions made by this service, the review process is of the utmost importance. It's important to get different groups opinions before making a decision. The whole process should be made as public as possible to minimize any negative effect on other business services or the company as a whole.
