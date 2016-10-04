@@ -7,10 +7,6 @@ toc: false
 summary:
 ---
 
-## Conway’s law
-> Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization's communication structure.  
-> <br>– Melvin Conway
-
 ## Defining Business Services
 A business service is created to realize a business capability. The business capability (along with supporting capabilites and delimitations) form the purpose for the business service.
 
@@ -43,50 +39,50 @@ Due the importance of the decisions made by this service, the review process is 
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
-.tg .tg-ga2z{background-color:#f7fdfa;text-align:center}
+.tg .tg-ga23{background-color:#f7fdfa;text-align:center}
+.tg .tg-ga2z{background-color:#f7fdfa;text-align:left}
 .tg .tg-h8rl{font-weight:bold;color:#ffffff;text-align:center}
 .tg .tg-bdj1{background-color:#d2e4fc;font-weight:bold;text-align:center}
-.tg .tg-vr8s{font-weight:bold;background-color:#26ade4;color:#ffffff;text-align:center}
-.tg .tg-iuhw{font-style:italic;background-color:#f7fdfa;text-align:center}
+.tg .tg-vr8s{font-weight:bold;background-color:#26ade4;color:#ffffff;text-align:center;font-size:20px;text-transform: uppercase}
+.tg .tg-iuhw{font-style:italic;background-color:#f7fdfa;text-align:left}
 .tg .tg-w438{background-color:#d2e4fc;font-weight:bold;font-style:italic;text-align:center}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-h8rl">Business Service Definition (Template)</th>
-    <th class="tg-vr8s">Name:</th>
-    <th class="tg-vr8s">Owner:</th>
+    <th class="tg-vr8s">Business Service Definition</th>
+    <th class="tg-vr8s"colspan="2">Name:<br></th>
+    <th class="tg-vr8s">Owner:<br></th>
     <th class="tg-vr8s">Version:</th>
   </tr>
   <tr>
-    <td class="tg-bdj1">Purpose:</td>
-    <td class="tg-bdj1">Rights:</td>
-    <td class="tg-bdj1">Capability:</td>
-    <td class="tg-bdj1">Governing Framework:</td>
+    <td class="tg-bdj1">Purpose</td>
+    <td class="tg-bdj1">Rights</td>
+    <td class="tg-bdj1">Capability</td>
+    <td class="tg-bdj1">Governing Framework</td>
+    <td class="tg-bdj1">Justification Of <br>The Choices Made</td>
   </tr>
   <tr>
-    <td class="tg-ga2z">&lt;The purpose of the business service&gt;</td>
-    <td class="tg-iuhw">&lt;What the business service has the right to do&gt;</td>
-    <td class="tg-iuhw">&lt;The ONE capability that is the foundation for creating the business service&gt;</td>
-    <td class="tg-iuhw">&lt;Which framework (e.g. GUARDIAN) should the business service adhere to&gt;</td>
+    <td class="tg-ga23">&lt;The purpose of the business service&gt;</td>
+    <td class="tg-iuhw">&lt;What the business has the right to decide&gt;</td>
+    <td class="tg-ga23">&lt;The ONE capability that is the foundation for creating the business service&gt;</td>
+    <td class="tg-ga23">&lt;Which framework (e.g. GUARDIAN) should the business service adhere to&gt;</td>
+    <td class="tg-ga23">&lt;Justification of the choices made&gt;</td>
   </tr>
   <tr>
-    <td class="tg-w438">Commitments:</td>
-    <td class="tg-bdj1">Delimitations:</td>
-    <td class="tg-bdj1">Supporting Capabilities:</td>
-    <td class="tg-bdj1">Metrics:</td>
+    <td class="tg-w438">Commitments</td>
+    <td class="tg-bdj1">Delimitations</td>
+    <td class="tg-bdj1">Supporting Capabilities</td>
+    <td class="tg-bdj1">Metrics</td>
+    <td class="tg-bdj1">The Other Alternatives <br>That Were Not Chosen</td>
   </tr>
   <tr>
     <td class="tg-ga2z">&lt;What the business service is required to deliver&gt;</td>
     <td class="tg-iuhw">&lt;What the business service is NOT allowed to do&gt;</td>
     <td class="tg-iuhw">&lt;Capabilities that are not the foundation for the business service but still is something the service should be able to handle&gt;</td>
     <td class="tg-iuhw">&lt;Key metrics for measuring the success of the business service&gt;</td>
+    <td class="tg-iuhw">&lt;The other alternatives that were not chosen&gt;</td>
   </tr>
 </table>
-
-## Microservices and the Inverse Conway Manoeuvre
-N.B. James Lewis talks about business capabilities. GUARDIAN defines capabilites differently but exchange his use of the word capabilities for the word business service and everything is the same.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uicjqeZO690" frameborder="0" allowfullscreen></iframe>
 
 ## Justification Of The Choices Made
 We believe that giving people a clear (and small) purpose and the freedom to solve it in the way they view best is the only way to get outstanding customer value and efficiency.
