@@ -57,28 +57,28 @@ Due the importance of the decisions made by this service, the review process is 
   <tr>
     <td class="tg-bdj1">Purpose</td>
     <td class="tg-bdj1">Rights</td>
-    <td class="tg-bdj1">Capability</td>
+    <td class="tg-bdj1">Critical Capabilities</td>
     <td class="tg-bdj1">Governing Framework</td>
     <td class="tg-bdj1">Justification Of <br>The Choices Made</td>
   </tr>
   <tr>
     <td class="tg-ga23">&lt;The purpose of the business service&gt;</td>
     <td class="tg-iuhw">&lt;What the business has the right to decide&gt;</td>
-    <td class="tg-ga23">&lt;The ONE capability that is the foundation for creating the business service&gt;</td>
+    <td class="tg-ga23">&lt;Capabilites that are critical for the business service&gt;</td>
     <td class="tg-ga23">&lt;Which framework (e.g. GUARDIAN) should the business service adhere to&gt;</td>
     <td class="tg-ga23">&lt;Justification of the choices made&gt;</td>
   </tr>
   <tr>
     <td class="tg-w438">Commitments</td>
     <td class="tg-bdj1">Delimitations</td>
-    <td class="tg-bdj1">Supporting Capabilities</td>
+    <td class="tg-bdj1">Critical Success Factors</td>
     <td class="tg-bdj1">Metrics</td>
     <td class="tg-bdj1">The Other Alternatives <br>That Were Not Chosen</td>
   </tr>
   <tr>
     <td class="tg-ga2z">&lt;What the business service is required to deliver&gt;</td>
     <td class="tg-iuhw">&lt;What the business service is NOT allowed to do&gt;</td>
-    <td class="tg-iuhw">&lt;Capabilities that are not the foundation for the business service but still is something the service should be able to handle&gt;</td>
+    <td class="tg-iuhw">&lt;What is critical for the success of the business service&gt;</td>
     <td class="tg-iuhw">&lt;Key metrics for measuring the success of the business service&gt;</td>
     <td class="tg-iuhw">&lt;The other alternatives that were not chosen&gt;</td>
   </tr>

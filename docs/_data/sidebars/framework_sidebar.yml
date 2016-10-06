@@ -212,7 +212,7 @@ entries:
       url: /time-to-customer-value.html
       output: web, pdf
 
-  - title: Principles (Index)
+  - title: Principles (Listed)
     output: web, pdf
 
     folderitems:
@@ -220,7 +220,7 @@ entries:
       url: /principles.html
       output: web, pdf
 
-  - title: Patterns (Index)
+  - title: Patterns (Listed)
     output: web, pdf
 
     folderitems:
@@ -228,10 +228,38 @@ entries:
       url: /patterns.html
       output: web, pdf
 
-  - title: Standardizations (Index)
+  - title: Standardizations (Listed)
     output: web, pdf
 
     folderitems:
-    - title: Overview Standardizations
+    - title: Overview
       url: /standardizations.html
+      output: web, pdf
+
+    - title: Revision Control, Source Code Management, Bug Tracking, Feature Requests, Task Management And Documentation
+      url: /standardizations-management.html
+      output: web, pdf
+
+    - title: Platform Technology
+      url: /standardizations-platform-technology.html
+      output: web, pdf
+
+    - title: Integration
+      url: /standardizations-integration.html
+      output: web, pdf
+
+    - title: Versioning
+      url: /standardizations-versioning.html
+      output: web, pdf
+
+    - title: Accessibility
+      url: /standardizations-accessibility.html
+      output: web, pdf
+
+    - title: Security
+      url: /standardizations-security.html
+      output: web, pdf
+
+    - title: Search
+      url: /standardizations-search.html
       output: web, pdf
