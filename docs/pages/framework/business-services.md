@@ -49,7 +49,7 @@ Due the importance of the decisions made by this service, the review process is 
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-vr8s">Business Service Definition</th>
+    <th class="tg-vr8s">Business Service Canvas</th>
     <th class="tg-vr8s"colspan="2">Name:<br></th>
     <th class="tg-vr8s">Owner:<br></th>
     <th class="tg-vr8s">Version:</th>
@@ -85,7 +85,7 @@ Due the importance of the decisions made by this service, the review process is 
 </table>
 
 ## Justification Of The Choices Made
-We believe that giving people a clear (and small) purpose and the freedom to solve it in the way they view best is the only way to get outstanding customer value and efficiency.
+We believe in giving the team a clear (and small) purpose, the freedom to solve the purpose in the way that they feel is best. We belive that this is the only way to get outstanding customer value and efficiency.
 
 ## The Other Alternatives That Were Not Chosen
 * Functional/hierarchical organization
