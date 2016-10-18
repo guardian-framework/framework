@@ -8,7 +8,7 @@ summary:
 ---
 
 ## Defining Business Services
-A business service is created to realize a business capability. The business capability (along with supporting capabilites and delimitations) form the purpose for the business service.
+A business service is created to realize business capabilities. The business capability (along with supporting capabilites and delimitations) form the purpose for the business service.
 
 ![Business Service formed around a business capability](images/business-service-capability.png)
 
@@ -20,6 +20,15 @@ Viewed from the outside, a business service has commitments to deliver services 
 Viewed from the inside the business service is operated be the business owner with the help of his/her cross-functional team, it's own technology (not shared with other services), information and processes.
 
 ![Business Service viewed from the inside](images/business-service.png)
+
+## The cross-functional team
+The core of the business service is the team. Each individual in the team ONLY works with one business service and does not share his/her time with other engagemants except for time spent in i.e. guilds or other cross-team knowledge sharing activites. The should adhere to the "two pizza rule" two prevent communication in the service from being to hard.
+
+>Bezos’s two-pizza rule works out to at most 6 or 7 non-ravenous people. Teamwork expert Hackman pegs his magic number at 5 and fervently warns against going above 10. Management expert Bob Sutton cites the U.S. Navy Seals as having learned that 4 “is the optimal size for a combat team.”
+
+>It’s safe to say that a small team count sticks to single-digits, so start thinking of splitting into subgroups when you get beyond 10 people.
+
+Source: [http://blog.idonethis.com/](http://blog.idonethis.com/two-pizza-team/)
 
 ## The business owner
 The business owner is the only resource that is allocated to the service upon creation. The business owner shall have the vision and insight to guide the business service to success. The business owner is responsible for forming his/her autonomous team and together they will solve it's purpose with the help of technology, processes and the team itself.
@@ -93,3 +102,5 @@ We believe in giving the team a clear (and small) purpose, the freedom to solve 
 ## Further Reading
 * [Industrialised Service Delivery Redux I](https://itblagger.wordpress.com/2008/07/)
 * [Modeling Business Capabilities by Combining Services with Communication Patterns (2)](https://blogs.msdn.microsoft.com/asehmi/2007/06/24/modeling-business-capabilities-by-combining-services-with-communication-patterns-2/)
+* [The Science Behind Why Jeff Bezos’s Two-Pizza Team Rule Works](http://blog.idonethis.com/two-pizza-team/)
+* [Why Teams Don’t Work](http://econ.au.dk/fileadmin/Economics_Business/Currently/Events/PhDFinance/Kauttu_Why-Teams-Dont-Work-by-J.-Richard-Hackman.pdf)
